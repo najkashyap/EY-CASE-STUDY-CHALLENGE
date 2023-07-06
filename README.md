@@ -19,4 +19,8 @@ The corporate treasury function of a company is responsible for managing the org
 ## Reference:
 1. Chandrinos, S.K., Sakkas, G. and Lagaros, N.D., 2018. AIRMS: A risk management tool using machine learning. Expert Systems with Applications, 105, pp.34-48.
 2. [How Harris Streamlined Forecasting Across 900+ Projects for Continuous Visibility and Avoid Cash Crunches](https://www.highradius.com/resources/case-study/harris/)
+3. [Complimentary Webinar The Evolution of Cash Forecasting at Harris Company](https://www.highradius.com/resources/treasury/webinar/forecasting-evolution-harris/)
+4. [march-to-change](https://flow.db.com/cash-management/march-to-change)
+5. [rils-treasury-on-its-toes-to-boost-other-income](https://www.business-standard.com/article/companies/rils-treasury-on-its-toes-to-boost-other-income-114022801097_1.html)
+6. [the-future-of-treasury-operations-how-chatgpt-could-transform-the-treasury-industry](https://treasuryrecruitment.com/the-future-of-treasury-operations-how-chatgpt-could-transform-the-treasury-industry/)
 
