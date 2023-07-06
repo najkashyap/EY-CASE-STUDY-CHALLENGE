@@ -12,6 +12,11 @@ A case study representing the use case of AI/ML/RPA in the field of treasury wit
 3. Can technologies such as Chat GPT be used for Treasury?
     - If yes, pls highlight use cases for use of ChatGPT in Treasury. Pls document a 500-word article on its use case and how it can change the world of Treasury.
 4. Identify success stories of organisations in India who have adopted technology to transform their Treasury function?
-   
-     
+## Introduction:
+Company ABC is a leading Indian multinational corporation with operations in over 20  countries globally. With a strong focus on innovation, the company is exploring the potential of advanced technologies like artificial intelligence, machine learning, and robotic process automation (RPA) to enhance its corporate treasury function. The company wants to evaluate the potential use cases within its cash, investments, forex, and debt functions to improve efficiency and effectiveness.
+## Background:
+The corporate treasury function of a company is responsible for managing the organization's financial assets and liabilities to ensure liquidity, mitigate risks, and optimize returns. The function includes cash management, investment management, foreign exchange (forex) risk management, and debt management. Traditionally, corporate treasury has been a manual and time-consuming process, which requires a significant amount of human effort and resources. However, with the advent of advanced technologies like artificial intelligence, machine learning, and RPA, treasury functions can be automated, streamlined, and optimized.
+## Reference:
+1. Chandrinos, S.K., Sakkas, G. and Lagaros, N.D., 2018. AIRMS: A risk management tool using machine learning. Expert Systems with Applications, 105, pp.34-48.
+2. [How Harris Streamlined Forecasting Across 900+ Projects for Continuous Visibility and Avoid Cash Crunches](https://www.highradius.com/resources/case-study/harris/)
 
